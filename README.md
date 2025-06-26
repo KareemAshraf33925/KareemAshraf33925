@@ -1,72 +1,54 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--_sk5cfBS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png)](https://MohamedHadaey.io)
+<h1 align="center">Hi 👋, I'm Kareem Ashraf</h1>
+<h3 align="center">frontend developer | React</h3>
 
-###
+<br>
 
-<div align="center">
-  <a href="www.linkedin.com/in/kareem-ashraf-238a3930a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="ashrafkareem005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=kareemashraf&label=Profile%20views&color=0e75b6&style=flat" alt="Kareem Ashraf" /> </p>
 
-###
+<br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KareemAshraf33925.KareemAshraf33925&"  />
-</div>
-
-###
-
-<h1 align="center">Hi 👋! My name is Kareem Ashraf</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Kareem Ashraf from Cairo<br><br>- 🔭 I’m working as Front End Developer<br>- 📚 I'm currently Work From Home<br>- ⚡ In my free time I Learn</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-</div>
-
-###
+<p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" /></p>
 
 
+- 🔭 I’m currently working on **web development projects**
+
+- 🌱 I’m currently learning **React&Next framework**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kareemashraf33925.github.io/Portfolio/)
+
+- 💬 Ask me about **Html, Css, Bootstrap, JavaScript, React.js,Next.js,MUI,Shadcn/UI**
+
+- 📫 How to reach me **ashrafkareem005@gmail.com **
+
+
+- ⚡ Fun fact **I think we should think twice code once**
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/kareem-ashraf-816768355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kareem-ashraf-816768355" height="30" width="40" /></a>
+</p>
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  &nbsp;  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  &nbsp;  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  &nbsp;  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  &nbsp;  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  &nbsp;  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" alt="css" width="40" height="40"/> </a>  &nbsp;  <a href="https://react.io" target="_blank" rel="noreferrer"> <img src="https://react.io/assets/images/logos/react/react.svg" alt="angular" width="40" height="40"/> </a>  &nbsp;   </p>
+
+<br>
+
+<h3>Statistical Data :-</h3>
+
+<p><img align="center"
+ src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemashraf&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="kareemashraf" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedhadaey&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="kareemashraf" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareemashraf&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mohamedhadaey" /></p>
